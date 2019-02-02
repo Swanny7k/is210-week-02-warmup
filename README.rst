@@ -60,66 +60,14 @@ Specifications
 Task 02
 -------
 
-The encoding statement is as, if-not more, important to add to your Python
-files than your interpreter directive. As it happens, one of our files
-happens to be missing its coding statement. Correct it to receive credit
-for this task.
+Create a new script and download the script file
 
 Specifications
 ^^^^^^^^^^^^^^
 
-1.  Edit ``task_02.py`` and add an coding statement in the appropriate
-    location.
+1.  On a new line on your notebook (denoted by the "In [ ]" descriptor), follow the pattern above and create a script that asks for the user age.   Then, print a message stating "You were X five years ago!), replacing X with age - 5.   For example, if the user answer he is 20 years old, the message should say "You were 15 five years ago!".
 
-
-
-Executing Tests
-===============
-
-Code must be functional and pass tests before it will be eligible for credit.
-
-Linting
--------
-
-Lint tests check your code for syntactic or stylistic errors To execute lint
-tests against a specific file, simply open a terminal in the same directory as
-your code repository and type:
-
-.. code:: console
-
-    $ pylint filename.py
-
-Where ``filename.py`` is the name of the file you wish to lint test.
-
-Unit Tests
-----------
-
-Unit tests check that your code performs the tested objectives. Unit tests
-may be executed individually by opening a terminal in the same directory as
-your code repository and typing:
-
-.. code:: console
-
-    $ nosetests tests/name_of_test.py
-
-Where ``name_of_test.py`` is the name of the testfile found in the ``tests``
-directory of your source code.
-
-Running All Tests
------------------
-
-All tests may be run simultaneously by executing the ``runtests.sh`` script
-from the root of your assignment repository. To execute all tests, open a
-terminal in the same directory as your code repository and type:
-
-.. code:: console
-
-    $ ./runtests.sh
-
-Submission
-==========
-
-Your code should be submitted via Blackboard, as a python file(s).
+2. Click on File -> Download as -> Notebook.   Save the file as "yourName_week2.ipynb" (replace "yourName" with your name).   Then, go to Blackboard and submit this file by clicking on the assignment title link.
 
 
 .. _GitHub: https://github.com/
