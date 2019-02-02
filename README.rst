@@ -65,7 +65,7 @@ Create a new script and download the script file
 Specifications
 ^^^^^^^^^^^^^^
 
-1.  On a new line on your notebook (denoted by the "In [ ]" descriptor), follow the pattern above and create a script that asks for the user age.   Then, print a message stating "You were X five years ago!), replacing X with age - 5.   For example, if the user answer he is 20 years old, the message should say "You were 15 five years ago!".
+1.  On a new line on your notebook (denoted by the "In [ ]" descriptor), follow the pattern above and create a script that asks for the user location.   Then, print a message stating the location back to the user (for example, "wow! i bet is cold in Boston!")
 
 2. Click on File -> Download as -> Notebook.   Save the file as "yourName_week2.ipynb" (replace "yourName" with your name).   Then, go to Blackboard and submit this file by clicking on the assignment title link.
 
