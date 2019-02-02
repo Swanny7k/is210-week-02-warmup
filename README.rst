@@ -2,7 +2,7 @@
 IS 210 Assignment #02
 #####################
 *************
-Warm-Up Tasks
+Tasks
 *************
 
 :College: CUNY School of Professional Studies
@@ -13,12 +13,12 @@ Warm-Up Tasks
 Overview
 ========
 
-The warm-up tasks this week will focus on general python file structure.
+The tasks this week will focus on submitting assignments correctly.
 
 Instructions
 ============
 
-Add your interpreter directive, utf-8 encoding, and a short docstring.
+Run a script and create the .ipynb file for submission
 
 .. important::
 
@@ -34,7 +34,7 @@ Add your interpreter directive, utf-8 encoding, and a short docstring.
     practicing both the use of the language in practice and the search skills
     necessary to become functional programmers.
 
-Warm-Up Tasks
+Tasks
 =============
 
 
@@ -42,15 +42,17 @@ Warm-Up Tasks
 Task 01
 -------
 
-As we discussed in the *Concepts and Terms* document, executable Python files
-should have an interpreter directive. One such file in our repository happens
-to be missing one!
+Run a simple script in your notebook
 
 Specifications
 ^^^^^^^^^^^^^^
 
-1.  Edit ``task_01.py`` and add an interpreter directive in the proper
-    location.
+1.  Open a new Jupyter notebook
+2.  Paste the code below and ensure it runs appropriately.  When running it, you should see a prompt asking for your name followed by a greeting once you hit the enter key.
+
+.. code:: console
+name = raw_input("What is your name?")
+print ("Hi, " + name)
 
 
 Task 02
