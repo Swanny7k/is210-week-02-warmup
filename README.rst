@@ -50,12 +50,13 @@ Specifications
 1.  Open a new Jupyter notebook
 2.  Paste the code below and ensure it runs appropriately.  When running it, you should see a prompt asking for your name followed by a greeting once you hit the enter key.
 
-.. code:: console
 
-name = raw_input("What is your name?")
-print ("Hi, " + name)
+.. code:: pycon
 
-
+    >>> name = raw_input("What is your name?")
+    >>> print ("Hi, " + name)
+    
+ 
 Task 02
 -------
 
